@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Adam 👋
 
-<!--
-**TheSovereignEdge/TheSovereignEdge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+24-year-old self-taught cybersecurity professional and Python developer building a remote career from Kalymnos, Greece.
 
-Here are some ideas to get you started:
+## What I'm Currently Doing
+- Completing TryHackMe Pre-Security path + preparing for SEC0 certification
+- Building practical Python automation tools for security tasks
+- Documenting the full journey from complete beginner to paid remote work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Focus Areas
+- **Cybersecurity**: Networking fundamentals, TryHackMe rooms, foundational security concepts, SEC0 (in progress)
+- **Development**: Python (scripting, automation, file handling, log parsing), basic SQL & HTML
+- **Approach**: Daily consistent learning, active recall, building in public, connecting concepts to real-world automation
+
+## Where I'm Headed
+Remote SOC analyst / security operations roles → freelance contracts & automation work → eventually building agentic AI security and trading tools.
+
+## Connect With Me
+- X / Twitter: [@adamtradez](https://x.com/adamtradez)
+
+*Greek roots • Island base • Sovereign mindset • High-agency builder*
