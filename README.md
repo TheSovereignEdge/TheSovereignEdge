@@ -13,7 +13,7 @@
 - **Approach**: Daily consistent learning, active recall, building in public, connecting concepts to real-world automation
 
 ## Certifications
-- **TryHackMe SEC0 (Pre Security)** - Passed [6/30]
+- **TryHackMe SEC0 (Pre Security)** - Passed [6/30/2026]
   - Completed foundational training in networking, OS fundamentals, web technologies, and basic security concepts.
 
 ## Where I'm Headed
