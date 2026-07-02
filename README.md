@@ -3,7 +3,7 @@
 24-year-old self-taught cybersecurity professional and Python developer building a remote career from Kalymnos, Greece.
 
 ## What I'm Currently Doing
-- Completing TryHackMe Pre-Security path + preparing for SEC0 certification
+- Completing TryHackMe Cybersecurity 101 path + preparing for SEC1 certification
 - Building practical Python automation tools for security tasks
 - Documenting the full journey from complete beginner to paid remote work
 
